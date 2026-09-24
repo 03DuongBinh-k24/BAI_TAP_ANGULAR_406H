@@ -1,0 +1,31 @@
+.main-table {
+  width: 100%;
+  max-width: 600px;
+  border-collapse: collapse;
+  margin: 20px auto;
+}
+
+.main-table th, 
+.main-table td {
+  padding: 8px;
+  text-align: left;
+}
+
+.sub-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.sub-table th, 
+.sub-table td {
+  padding: 8px;
+  text-align: left;
+}
+
+.product-img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+}
